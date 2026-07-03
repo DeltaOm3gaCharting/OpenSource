@@ -1018,6 +1018,14 @@
 			"type": "custom"
 		},
 		{
+			"ids": [ "yurianime" ],
+			"names": {
+				"en-US": "Yuri Anime Pack"
+			},
+			"icon": "yurianime",
+			"type": "custom"
+		},
+		{
 			"ids": [ "zancharted" ],
 			"names": {
 				"en-US": "Zancharted"
@@ -1436,7 +1444,15 @@
 				"en-US": "Encore"
 			},
 			"icon": "encore",
-			"type": "custom"
+			"type": "custom"			
+		},
+		{
+		    "ids": [ "lanebreakers" ],
+		    "names": {
+		        "en-US": "Lane Breakers"
+		    },
+		    "icon": "lanebreakers",
+		    "type": "custom"
 		},
 		{
 			"ids": [ "emotion" ],
@@ -1460,9 +1476,9 @@
 				"en-US": "Indiependence Day"
 			},
 			"icon": "indp",
-      "type": "custom"
-    },
-    {
+      		"type": "custom"
+    	},
+    	{
 			"ids": [ "idta" ],
 			"names": {
 				"en-US": "Initial D The Arcade Setlist",
@@ -1470,6 +1486,22 @@
 				"ja-JP": "頭文字D、ジ・アーケード せとりすと"
 			},
 			"icon": "idta",
+			"type": "custom"
+		},
+		{
+      		"ids": [ "airheads" ],
+      		"names": {
+        		"en-US": "AIRheads"
+      		},
+      		"icon": "airheads",
+      		"type": "custom"
+    	},
+		{
+    		"ids": [ "rbee" ],
+			"names": {
+				"en-US": "Rock Band en Español"
+			},
+			"icon": "rbee",
 			"type": "custom"
 		}
 	]
